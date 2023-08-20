@@ -1,5 +1,6 @@
 # ClickerPHP
 Мини кликер на PHP
+
 ![image](https://github.com/VladislaVFEABE/ClickerPHP/assets/104216804/552fcc2a-d01b-4c4d-a7b5-320ff47ebbd0)
 
 
